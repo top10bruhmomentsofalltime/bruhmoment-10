@@ -1,5 +1,5 @@
 {
-    "latestVersion": "0.1.0",
+    "latestVersion": "1.0.0",
     "indexName": "Ballin",
     "songs": [
         {
@@ -9,6 +9,62 @@
             "speed": 1,
             "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Yeetedsohard-OFFICIALVEVO.dfpwm",
             "time": 306
+        },
+        {
+            "type": "song",
+            "name": "Sweet Caroline (Diagnostix Bootleg)",
+            "author": "Neil Diamond, Diagnostix",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/SweetCarolineDiagnostixBootleg.dfpwm",
+            "time": 219
+        },
+        {
+            "type": "song",
+            "name": "Sunflower",
+            "author": "Post Malone, Swae Lee",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Sunflower.dfpwm",
+            "time": 162
+        },
+        {
+            "type": "song",
+            "name": "Rappin' for Jesus",
+            "author": "???",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RappinforJesus.dfpwm",
+            "time": 173
+        },
+        {
+            "type": "song",
+            "name": "Hello",
+            "author": "OMFG",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Hello.dfpwm",
+            "time": 239
+        },
+        {
+            "type": "song",
+            "name": "Revenge",
+            "author": "Usher, CaptainSparklez",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Revenge.dfpwm",
+            "time": 265
+        },
+        {
+            "type": "song",
+            "name": "Not Like Us",
+            "author": "Kendrick Lamar",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/NotLikeUs.dfpwm",
+            "time": 274
+        },
+        {
+            "type": "song",
+            "name": "Ram Ranch",
+            "author": "Grant Macdonald",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RamRanch.dfpwm",
+            "time": 204
         }
     ]
 }
