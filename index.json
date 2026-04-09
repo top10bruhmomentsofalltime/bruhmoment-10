@@ -65,6 +65,22 @@
             "speed": 1,
             "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RamRanch.dfpwm",
             "time": 204
+        },
+        {
+            "type": "song",
+            "name": "BUSSIN'",
+            "author": "TWISTED",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/BUSSIN.dfpwm",
+            "time": 87
+        },
+        {
+            "type": "song",
+            "name": "Montagem Favela",
+            "author": "CHASHKAKEFIRA",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/MontagemFavela.dfpwm",
+            "time": 93
         }
     ]
 }
