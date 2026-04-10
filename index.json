@@ -1,86 +1,350 @@
 {
-    "latestVersion": "1.0.0",
+    "latestVersion": "2.0.0",
     "indexName": "Ballin",
     "songs": [
-        {
-            "type": "song",
-            "name": "Yeeted so hard - OFFICIAL VEVO",
-            "author": "Joshua, Eric",
-            "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Yeetedsohard-OFFICIALVEVO.dfpwm",
-            "time": 306
-        },
-        {
-            "type": "song",
-            "name": "Sweet Caroline (Diagnostix Bootleg)",
-            "author": "Neil Diamond, Diagnostix",
-            "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/SweetCarolineDiagnostixBootleg.dfpwm",
-            "time": 219
-        },
-        {
-            "type": "song",
-            "name": "Sunflower",
-            "author": "Post Malone, Swae Lee",
-            "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Sunflower.dfpwm",
-            "time": 162
-        },
         {
             "type": "song",
             "name": "Rappin' for Jesus",
             "author": "???",
             "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RappinforJesus.dfpwm",
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RappinForJesus.dfpwm",
             "time": 173
         },
         {
             "type": "song",
-            "name": "Hello",
-            "author": "OMFG",
+            "name": "Bloody",
+            "author": "2SLIMEY",
             "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Hello.dfpwm",
-            "time": 239
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/2SLIMEY_Bloody.dfpwm",
+            "time": 60
+        },
+        {
+            "type": "song",
+            "name": "Legends Never Die",
+            "author": "Against The Current",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/AgainstTheCurrent_LegendsNeverDie",
+            "time": 234
+        },
+	{
+            "type": "song",
+            "name": "Coral Chorus (Hardstyle)",
+            "author": "Anor",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Anor_CoralChorusHardstyle.dfpwm",
+            "time": 148
+        },
+	{
+            "type": "song",
+            "name": "Out The Rain",
+            "author": "Baby Jayy",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/BabyJayy_OutTheRain.dfpwm",
+            "time": 148
+        },
+	{
+            "type": "song",
+            "name": "Flamewall",
+            "author": "Camellia",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Camellia_Flamewall.dfpwm",
+            "time": 411
+        },
+        {
+            "type": "song",
+            "name": "Fallen Kingdom",
+            "author": "CaptainSparklez",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/CaptainSparklez_FallenKingdom.dfpwm",
+            "time": 253
         },
         {
             "type": "song",
             "name": "Revenge",
-            "author": "Usher, CaptainSparklez",
+            "author": "CaptainSparklez",
             "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Revenge.dfpwm",
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/CaptainSparklez_Revenge.dfpwm",
             "time": 265
+        },
+        {
+            "type": "song",
+            "name": "Put It On Me",
+            "author": "Cesar Royale, Trap Money Doonk",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/CesarRoyale-TrapMoneyDoonk_PutItOnMe.dfpwm",
+            "time": 208
+        },
+        {
+            "type": "song",
+            "name": "MONTAGEM FAVELA",
+            "author": "CHASHKAKEFIRA",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/CHASHKAKEFIRA_MONTAGEMFAVELA.dfpwm",
+            "time": 93
+        },
+        {
+            "type": "song",
+            "name": "Vibes",
+            "author": "Chriseanrock",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Chriseanrock_Vibes.dfpwm",
+            "time": 118
+        },
+        {
+            "type": "song",
+            "name": "Unnecessary",
+            "author": "Dave Blunts",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/DaveBlunts_Unnecessary.dfpwm",
+            "time": 120
+        },
+        {
+            "type": "song",
+            "name": "NOKIA",
+            "author": "Drake",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Drake_NOKIA.dfpwm",
+            "time": 242
+        },
+        {
+            "type": "song",
+            "name": "Forever",
+            "author": "Drake, Eminem, Kanye West, Lil Wayne",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Drake-Eminem-KanyeWest-LilWayne_Forever.dfpwm",
+            "time": 359
+        },
+        {
+            "type": "song",
+            "name": "Lose Youself x Dum Dee Dum",
+            "author": "Eminem, Keys N Krates",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Eminem-KeysNKrates_LoseYourself-DumDeeDum.dfpwm",
+            "time": 151
+        },
+        {
+            "type": "song",
+            "name": "KPOP",
+            "author": "Eric Reprid",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/EricReprid_KPOP.dfpwm",
+            "time": 136
+        },
+        {
+            "type": "song",
+            "name": "Rockefeller Street (Earrape)",
+            "author": "Getter Jaani",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/GetterJaani_RockefellerStreet_Earrape.dfpwm",
+            "time": 147
+        },
+        {
+            "type": "song",
+            "name": "Ram Ranch",
+            "author": "Grant MacDonald",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/GrantMacDonald_RamRanch.dfpwm",
+            "time": 204
+        },
+        {
+            "type": "song",
+            "name": "No Time For Caution",
+            "author": "Hans Zimmer",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/HansZimmer_No TimeForCaution.dfpwm",
+            "time": 241
+        },
+        {
+            "type": "song",
+            "name": "Golden",
+            "author": "Huntrix",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Huntrix_Golden.dfpwm",
+            "time": 193
+        },
+        {
+            "type": "song",
+            "name": "Kream (Bass Boosted)",
+            "author": "Iggy Azalea, Tyga",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/IggyAzalea-Tyga_ Kream_Bass Boosted.dfpwm",
+            "time": 168
+        },
+        {
+            "type": "song",
+            "name": "Head Shot",
+            "author": "IShowSpeed",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/IShowSpeed_HeadShot.dfpwm",
+            "time": 238
+        },
+        {
+            "type": "song",
+            "name": "Yeeted so hard - OFFICIAL VEVO",
+            "author": "Joshua, Eric",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Joshua-Eric_YeetedSoHard.dfpwm",
+            "time": 306
+        },
+        {
+            "type": "song",
+            "name": "Cousins",
+            "author": "Kanye West",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/KanyeWest_Cousins.dfpwm",
+            "time": 153
+        },
+        {
+            "type": "song",
+            "name": "HH",
+            "author": "Kanye West",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/KanyeWest_HH.dfpwm",
+            "time": 153
+        },
+        {
+            "type": "song",
+            "name": "The One That Got Away (Nightcore)",
+            "author": "Katy Perry",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/KatyPerry_TheOneThatGotAway_Nightcore.dfpwm",
+            "time": 177
         },
         {
             "type": "song",
             "name": "Not Like Us",
             "author": "Kendrick Lamar",
             "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/NotLikeUs.dfpwm",
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/KendrickLamar_NotLikeUs.dfpwm",
             "time": 274
         },
         {
             "type": "song",
-            "name": "Ram Ranch",
-            "author": "Grant Macdonald",
+            "name": "Peanuts 2 N Elephant",
+            "author": "Lil Wayne",
             "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RamRanch.dfpwm",
-            "time": 204
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/LilWayne_Peanuts2NElephant.dfpwm",
+            "time": 193
+        },
+        {
+            "type": "song",
+            "name": "Project Dream (Earrape)",
+            "author": "Marshmello, Roddy Ricch",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Marshmello-RoddyRicch_ProjectDreams_Earrape.dfpwm",
+            "time": 169
+        },
+        {
+            "type": "song",
+            "name": "Invincible",
+            "author": "MGK",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/MGK-EsterDean_Invincible.dfpwm",
+            "time": 187
+        },
+        {
+            "type": "song",
+            "name": "Sweet Caroline (Diagnostix Bootleg)",
+            "author": "Neil Diamond, Diagnostix",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/NeilDiamond_SweetCaroline_DiagnostixBootleg.dfpwm",
+            "time": 219
+        },
+        {
+            "type": "song",
+            "name": "Not The Imposter",
+            "author": "Nerd Out, Halocene",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/NerdOut-Halocene_NotTheImpostor.dfpwm",
+            "time": 182
+        },
+        {
+            "type": "song",
+            "name": "Hello",
+            "author": "OMFG",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/OMFG_Hello.dfpwm",
+            "time": 239
+        },
+        {
+            "type": "song",
+            "name": "Ain't It Fun",
+            "author": "Paramore",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Paramore_AintItFun.dfpwm",
+            "time": 297
+        },
+        {
+            "type": "song",
+            "name": "Sunflower",
+            "author": "Post Malone, Swae Lee",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/PostMalone_Sunflower.dfpwm",
+            "time": 162
+        },
+        {
+            "type": "song",
+            "name": "Treat Jew Better",
+            "author": "Rucka Rucka Ali",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RuckaRuckaAli_TreatJewBetter.dfpwm",
+            "time": 189
+        },
+        {
+            "type": "song",
+            "name": "U Was At The Club",
+            "author": "The Boyboy West Coast",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/TheBoyboyWestCoast_UWasAtTheClub.dfpwm",
+            "time": 197
+        },
+        {
+            "type": "song",
+            "name": "Panda",
+            "author": "T Pain",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/TPain_Panda.dfpwm",
+            "time": 254
         },
         {
             "type": "song",
             "name": "BUSSIN'",
             "author": "TWISTED",
             "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/BUSSIN.dfpwm",
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/TWISTED_BUSSIN.dfpwm",
             "time": 87
         },
         {
             "type": "song",
-            "name": "Montagem Favela",
-            "author": "CHASHKAKEFIRA",
+            "name": "Give A Ni$$a A Break",
+            "author": "TylerCassidy",
             "speed": 1,
-            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/MontagemFavela.dfpwm",
-            "time": 93
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/TylerCassidy_GiveANi$$aABreak.dfpwm",
+            "time": 203
+        },
+        {
+            "type": "song",
+            "name": "Heads Will Roll (A-Trak Remix)",
+            "author": "Yeah Yeah Yeahs",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/YeahYeahYeahs_HeadsWillRoll_ATrakRemix.dfpwm",
+            "time": 205
+        },
+        {
+            "type": "song",
+            "name": "Don't Be Cleaning Booty",
+            "author": "YEAT",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/YEAT_DontBeCleaningBooty.dfpwm",
+            "time": 144
+        },
+        {
+            "type": "song",
+            "name": "Let King Tonka Talk",
+            "author": "YEAT, King Kylie",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/YEAT-KingKylie_LetKingTonkaTalk.dfpwm",
+            "time": 182
         }
     ]
 }
