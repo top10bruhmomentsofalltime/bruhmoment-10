@@ -1,5 +1,5 @@
 {
-    "latestVersion": "2.0.1",
+    "latestVersion": "2.1.1",
     "indexName": "Ballin",
     "songs": [
         {
@@ -92,6 +92,14 @@
         },
         {
             "type": "song",
+            "name": "10 PERCS (Nightcore)",
+            "author": "Dave Blunts",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/DaveBlunts_10PERCS_Nightcore.dfpwm",
+            "time": 106
+        },
+        {
+            "type": "song",
             "name": "Unnecessary",
             "author": "Dave Blunts",
             "speed": 1,
@@ -116,6 +124,14 @@
         },
         {
             "type": "song",
+            "name": "What It Is (Nightcore)",
+            "author": "Doechii",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/Doechii_WhatItIs_Nightcore.dfpwm",
+            "time": 170
+        },
+        {
+            "type": "song",
             "name": "Lose Youself x Dum Dee Dum",
             "author": "Eminem, Keys N Krates",
             "speed": 1,
@@ -129,6 +145,30 @@
             "speed": 1,
             "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/EricReprid_KPOP.dfpwm",
             "time": 136
+        },
+        {
+            "type": "song",
+            "name": "Suki (Nightcore)",
+            "author": "Eric Reprid",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/EricReprid_Suki_Nightcore.dfpwm",
+            "time": 86
+        },
+        {
+            "type": "song",
+            "name": "Leak #1 (Nightcore)",
+            "author": "figgy",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/figgy_Leak1_Nightcore.dfpwm",
+            "time": 88
+        },
+        {
+            "type": "song",
+            "name": "The Clash Royale Grind",
+            "author": "figgy",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/figgy_TheClashRoyaleGrind.dfpwm",
+            "time": 117
         },
         {
             "type": "song",
@@ -180,6 +220,14 @@
         },
         {
             "type": "song",
+            "name": "All Time Low (Nightcore)",
+            "author": "Jon Bellion",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/JonBellion_AllTimeLow_Nightcore.dfpwm",
+            "time": 183
+        },
+        {
+            "type": "song",
             "name": "Yeeted so hard - OFFICIAL VEVO",
             "author": "Joshua, Eric",
             "speed": 1,
@@ -225,6 +273,14 @@
             "speed": 1,
             "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/LilWayne_Peanuts2NElephant.dfpwm",
             "time": 193
+        },
+        {
+            "type": "song",
+            "name": "Party Rock Anthem",
+            "author": "LMFAO, Lauren Bennett, Goon Rock",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/LMFAO-LaurenBennett-GoonRock_PartyRockAnthem.dfpwm",
+            "time": 261
         },
         {
             "type": "song",
@@ -284,11 +340,27 @@
         },
         {
             "type": "song",
+            "name": "Married Next Year",
+            "author": "Rod Wave",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RodWave_MarriedNextYear.dfpwm",
+            "time": 191
+        },
+        {
+            "type": "song",
             "name": "Treat Jew Better",
             "author": "Rucka Rucka Ali",
             "speed": 1,
             "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/RuckaRuckaAli_TreatJewBetter.dfpwm",
             "time": 189
+        },
+        {
+            "type": "song",
+            "name": "We Are Charlie Kirk",
+            "author": "SPALEXMA",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/SPALEXMA_WeAreCharlieKirk.dfpwm",
+            "time": 225
         },
         {
             "type": "song",
@@ -345,6 +417,14 @@
             "speed": 1,
             "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/YEAT-KingKylie_LetKingTonkaTalk.dfpwm",
             "time": 182
+        },
+        {
+            "type": "song",
+            "name": "Ninja",
+            "author": "Young Thug",
+            "speed": 1,
+            "file": "https://github.com/top10bruhmomentsofalltime/bruhmoment-10/raw/main/music/YoungThug_Ninja.dfpwm",
+            "time": 231
         }
     ]
 }
